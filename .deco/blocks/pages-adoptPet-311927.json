@@ -1,0 +1,27 @@
+{
+  "name": "adoptPet",
+  "path": "/adoptPet",
+  "sections": [
+    {
+      "__resolveType": "site/sections/Header.tsx",
+      "navigation": {
+        "links": [],
+        "buttons": []
+      },
+      "logo": {}
+    },
+    {
+      "__resolveType": "hero"
+    },
+    {
+      "__resolveType": "Preview site/sections/ImageWithParagraph.tsx"
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
